@@ -9,8 +9,8 @@ products:
 
 # ASP.NET and SQL Database sample for Azure App Service
 
-This is a sample application that you can use to follow along with the tutorial at 
-[Create an ASP.NET app in Azure with SQL Database](https://docs.microsoft.com/en-us/azure/app-service-web/app-service-web-tutorial-dotnet-sqldatabase/). 
+This is a sample application that you can use to follow along with the activity at 
+Create an ASP.NET app in Azure with SQL Database. 
 
 ## License
 
